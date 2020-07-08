@@ -1,0 +1,13 @@
+{
+    "name": "samuel/www",
+    "description": "leitor de pdf",
+    "authors": [
+        {
+            "name": "Leitor de pdf",
+            "email": "samuel_soares27@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpexcel": "dev-develop"   
+    }
+}
